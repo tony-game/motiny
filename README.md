@@ -1,0 +1,2 @@
+# motiny
+a c++ practice
